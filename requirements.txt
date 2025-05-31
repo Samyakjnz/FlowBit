@@ -1,0 +1,5 @@
+openai
+pydantic
+sqlite3  # comes with Python by default
+python-dotenv
+pdfplumber  # For PDF parsing
